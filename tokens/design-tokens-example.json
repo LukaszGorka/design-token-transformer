@@ -1,11 +1,11 @@
 {
   "color": {
-    "fake bold": {
-      "description": null,
-      "type": "color",
-      "value": "#1f1f1fff"
-    },
-    "acacia": {
+    "acacias colors": {
+      "fake bold": {
+        "description": null,
+        "type": "color",
+        "value": "#1f1f1fff"
+      },
       "grey": {
         "100": {
           "description": null,
@@ -179,7 +179,7 @@
     }
   },
   "font": {
-    "font": {
+    "acacias typography": {
       "h1": {
         "type": "custom-fontStyle",
         "value": {
