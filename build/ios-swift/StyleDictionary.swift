@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 18:42:02 GMT
+// Generated on Tue, 02 Nov 2021 19:22:47 GMT
 
 
 import UIKit
@@ -43,25 +43,25 @@ public class StyleDictionary {
     public static let colorAcaciasColorsOxblood500 = UIColor(red: 0.651, green: 0.502, blue: 0.475, alpha: 1)
     public static let colorAcaciasColorsOxblood600 = UIColor(red: 0.576, green: 0.392, blue: 0.365, alpha: 1)
     public static let colorAcaciasColorsOxblood700 = UIColor(red: 0.502, green: 0.286, blue: 0.251, alpha: 1)
-    public static let fontAcaciasTypographyBody = "[object Object]"
-    public static let fontAcaciasTypographyBodyBulletList = "[object Object]"
-    public static let fontAcaciasTypographyBodyLink = "[object Object]"
-    public static let fontAcaciasTypographyH1 = "[object Object]"
-    public static let fontAcaciasTypographyH1Italic = "[object Object]"
-    public static let fontAcaciasTypographyH2 = "[object Object]"
-    public static let fontAcaciasTypographyH2Italic = "[object Object]"
-    public static let fontAcaciasTypographyH3 = "[object Object]"
-    public static let fontAcaciasTypographyH3Italic = "[object Object]"
-    public static let fontAcaciasTypographyH4 = "[object Object]"
-    public static let fontAcaciasTypographyH4Italic = "[object Object]"
-    public static let fontAcaciasTypographyH5 = "[object Object]"
-    public static let fontAcaciasTypographyH5Italic = "[object Object]"
-    public static let fontAcaciasTypographyLargeBody = "[object Object]"
-    public static let fontAcaciasTypographyNavigation = "[object Object]"
-    public static let fontAcaciasTypographyNavigationList = "[object Object]"
-    public static let fontAcaciasTypographyNumbers = "[object Object]"
-    public static let fontAcaciasTypographyNumbersCurrency = "[object Object]"
-    public static let fontAcaciasTypographyRegularQuote = "[object Object]"
-    public static let fontAcaciasTypographySmallBody = "[object Object]"
-    public static let fontAcaciasTypographySmallQuote = "[object Object]"
+    public static let fontBody = "[object Object]"
+    public static let fontBodyBulletList = "[object Object]"
+    public static let fontBodyLink = "[object Object]"
+    public static let fontH1 = "[object Object]"
+    public static let fontH1Italic = "[object Object]"
+    public static let fontH2 = "[object Object]"
+    public static let fontH2Italic = "[object Object]"
+    public static let fontH3 = "[object Object]"
+    public static let fontH3Italic = "[object Object]"
+    public static let fontH4 = "[object Object]"
+    public static let fontH4Italic = "[object Object]"
+    public static let fontH5 = "[object Object]"
+    public static let fontH5Italic = "[object Object]"
+    public static let fontLargeBody = "[object Object]"
+    public static let fontNavigation = "[object Object]"
+    public static let fontNavigationList = "[object Object]"
+    public static let fontNumbers = "[object Object]"
+    public static let fontNumbersCurrency = "[object Object]"
+    public static let fontRegularQuote = "[object Object]"
+    public static let fontSmallBody = "[object Object]"
+    public static let fontSmallQuote = "[object Object]"
 }
