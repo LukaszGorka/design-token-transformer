@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 17:20:16 GMT
+// Generated on Tue, 02 Nov 2021 17:41:08 GMT
 
 
 import UIKit
@@ -43,25 +43,25 @@ public class StyleDictionary {
     public static let colorAcaciaOxblood600 = UIColor(red: 0.576, green: 0.392, blue: 0.365, alpha: 1)
     public static let colorAcaciaOxblood700 = UIColor(red: 0.502, green: 0.286, blue: 0.251, alpha: 1)
     public static let colorFakeBold = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
-    public static let fontBody = "[object Object]"
-    public static let fontBodyBulletList = "[object Object]"
-    public static let fontBodyLink = "[object Object]"
-    public static let fontH1 = "[object Object]"
-    public static let fontH1Italic = "[object Object]"
-    public static let fontH2 = "[object Object]"
-    public static let fontH2Italic = "[object Object]"
-    public static let fontH3 = "[object Object]"
-    public static let fontH3Italic = "[object Object]"
-    public static let fontH4 = "[object Object]"
-    public static let fontH4Italic = "[object Object]"
-    public static let fontH5 = "[object Object]"
-    public static let fontH5Italic = "[object Object]"
-    public static let fontLargeBody = "[object Object]"
-    public static let fontNavigation = "[object Object]"
-    public static let fontNavigationList = "[object Object]"
-    public static let fontNumbers = "[object Object]"
-    public static let fontNumbersCurrency = "[object Object]"
-    public static let fontRegularQuote = "[object Object]"
-    public static let fontSmallBody = "[object Object]"
-    public static let fontSmallQuote = "[object Object]"
+    public static let fontFontBody = "[object Object]"
+    public static let fontFontBodyBulletList = "[object Object]"
+    public static let fontFontBodyLink = "[object Object]"
+    public static let fontFontH1 = "[object Object]"
+    public static let fontFontH1Italic = "[object Object]"
+    public static let fontFontH2 = "[object Object]"
+    public static let fontFontH2Italic = "[object Object]"
+    public static let fontFontH3 = "[object Object]"
+    public static let fontFontH3Italic = "[object Object]"
+    public static let fontFontH4 = "[object Object]"
+    public static let fontFontH4Italic = "[object Object]"
+    public static let fontFontH5 = "[object Object]"
+    public static let fontFontH5Italic = "[object Object]"
+    public static let fontFontLargeBody = "[object Object]"
+    public static let fontFontNavigation = "[object Object]"
+    public static let fontFontNavigationList = "[object Object]"
+    public static let fontFontNumbers = "[object Object]"
+    public static let fontFontNumbersCurrency = "[object Object]"
+    public static let fontFontRegularQuote = "[object Object]"
+    public static let fontFontSmallBody = "[object Object]"
+    public static let fontFontSmallQuote = "[object Object]"
 }
