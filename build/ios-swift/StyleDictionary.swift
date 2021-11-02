@@ -4,64 +4,64 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 18:23:48 GMT
+// Generated on Tue, 02 Nov 2021 18:31:18 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorAcaciasColorsBasicFailure = UIColor(red: 0.820, green: 0.165, blue: 0.275, alpha: 1)
-    public static let colorAcaciasColorsBasicSandstone = UIColor(red: 0.961, green: 0.953, blue: 0.922, alpha: 1)
-    public static let colorAcaciasColorsBasicSuccess = UIColor(red: 0.059, green: 0.580, blue: 0.318, alpha: 1)
-    public static let colorAcaciasColorsBasicWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorAcaciasColorsFakeBold = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
-    public static let colorAcaciasColorsGrape100 = UIColor(red: 0.957, green: 0.929, blue: 0.953, alpha: 1)
-    public static let colorAcaciasColorsGrape200 = UIColor(red: 0.890, green: 0.824, blue: 0.878, alpha: 1)
-    public static let colorAcaciasColorsGrape300 = UIColor(red: 0.820, green: 0.718, blue: 0.804, alpha: 1)
-    public static let colorAcaciasColorsGrape400 = UIColor(red: 0.753, green: 0.616, blue: 0.729, alpha: 1)
-    public static let colorAcaciasColorsGrape500 = UIColor(red: 0.686, green: 0.510, blue: 0.659, alpha: 1)
-    public static let colorAcaciasColorsGrape600 = UIColor(red: 0.620, green: 0.404, blue: 0.584, alpha: 1)
-    public static let colorAcaciasColorsGrape700 = UIColor(red: 0.553, green: 0.298, blue: 0.510, alpha: 1)
-    public static let colorAcaciasColorsGrey100 = UIColor(red: 0.925, green: 0.925, blue: 0.925, alpha: 1)
-    public static let colorAcaciasColorsGrey200 = UIColor(red: 0.812, green: 0.812, blue: 0.812, alpha: 1)
-    public static let colorAcaciasColorsGrey300 = UIColor(red: 0.698, green: 0.698, blue: 0.698, alpha: 1)
-    public static let colorAcaciasColorsGrey400 = UIColor(red: 0.584, green: 0.584, blue: 0.584, alpha: 1)
-    public static let colorAcaciasColorsGrey500 = UIColor(red: 0.471, green: 0.471, blue: 0.471, alpha: 1)
-    public static let colorAcaciasColorsGrey600 = UIColor(red: 0.357, green: 0.357, blue: 0.357, alpha: 1)
-    public static let colorAcaciasColorsGrey700 = UIColor(red: 0.243, green: 0.243, blue: 0.243, alpha: 1)
-    public static let colorAcaciasColorsOrange100 = UIColor(red: 0.973, green: 0.937, blue: 0.910, alpha: 1)
-    public static let colorAcaciasColorsOrange200 = UIColor(red: 0.933, green: 0.839, blue: 0.780, alpha: 1)
-    public static let colorAcaciasColorsOrange300 = UIColor(red: 0.894, green: 0.741, blue: 0.647, alpha: 1)
-    public static let colorAcaciasColorsOrange400 = UIColor(red: 0.855, green: 0.643, blue: 0.514, alpha: 1)
-    public static let colorAcaciasColorsOrange500 = UIColor(red: 0.816, green: 0.549, blue: 0.380, alpha: 1)
-    public static let colorAcaciasColorsOrange600 = UIColor(red: 0.776, green: 0.451, blue: 0.247, alpha: 1)
-    public static let colorAcaciasColorsOrange700 = UIColor(red: 0.737, green: 0.353, blue: 0.114, alpha: 1)
-    public static let colorAcaciasColorsOxblood100 = UIColor(red: 0.949, green: 0.929, blue: 0.925, alpha: 1)
-    public static let colorAcaciasColorsOxblood200 = UIColor(red: 0.875, green: 0.824, blue: 0.812, alpha: 1)
-    public static let colorAcaciasColorsOxblood300 = UIColor(red: 0.800, green: 0.714, blue: 0.702, alpha: 1)
-    public static let colorAcaciasColorsOxblood400 = UIColor(red: 0.725, green: 0.608, blue: 0.588, alpha: 1)
-    public static let colorAcaciasColorsOxblood500 = UIColor(red: 0.651, green: 0.502, blue: 0.475, alpha: 1)
-    public static let colorAcaciasColorsOxblood600 = UIColor(red: 0.576, green: 0.392, blue: 0.365, alpha: 1)
-    public static let colorAcaciasColorsOxblood700 = UIColor(red: 0.502, green: 0.286, blue: 0.251, alpha: 1)
-    public static let fontBodyBody = "[object Object]"
-    public static let fontBodyBodyBulletList = "[object Object]"
-    public static let fontBodyBodyLink = "[object Object]"
-    public static let fontBodyH1 = "[object Object]"
-    public static let fontBodyH1Italic = "[object Object]"
-    public static let fontBodyH2 = "[object Object]"
-    public static let fontBodyH2Italic = "[object Object]"
-    public static let fontBodyH3 = "[object Object]"
-    public static let fontBodyH3Italic = "[object Object]"
-    public static let fontBodyH4 = "[object Object]"
-    public static let fontBodyH4Italic = "[object Object]"
-    public static let fontBodyH5 = "[object Object]"
-    public static let fontBodyH5Italic = "[object Object]"
-    public static let fontBodyLargeBody = "[object Object]"
-    public static let fontBodyNavigation = "[object Object]"
-    public static let fontBodyNavigationList = "[object Object]"
-    public static let fontBodyNumbers = "[object Object]"
-    public static let fontBodyNumbersCurrency = "[object Object]"
-    public static let fontBodyRegularQuote = "[object Object]"
-    public static let fontBodySmallBody = "[object Object]"
-    public static let fontBodySmallQuote = "[object Object]"
+    public static let undefinedColorAcaciasColorsBasicFailure = #d12a46ff
+    public static let undefinedColorAcaciasColorsBasicSandstone = #f5f3ebff
+    public static let undefinedColorAcaciasColorsBasicSuccess = #0f9451ff
+    public static let undefinedColorAcaciasColorsBasicWhite = #ffffffff
+    public static let undefinedColorAcaciasColorsFakeBold = #1f1f1fff
+    public static let undefinedColorAcaciasColorsGrape100 = #f4edf3ff
+    public static let undefinedColorAcaciasColorsGrape200 = #e3d2e0ff
+    public static let undefinedColorAcaciasColorsGrape300 = #d1b7cdff
+    public static let undefinedColorAcaciasColorsGrape400 = #c09dbaff
+    public static let undefinedColorAcaciasColorsGrape500 = #af82a8ff
+    public static let undefinedColorAcaciasColorsGrape600 = #9e6795ff
+    public static let undefinedColorAcaciasColorsGrape700 = #8d4c82ff
+    public static let undefinedColorAcaciasColorsGrey100 = #ecececff
+    public static let undefinedColorAcaciasColorsGrey200 = #cfcfcfff
+    public static let undefinedColorAcaciasColorsGrey300 = #b2b2b2ff
+    public static let undefinedColorAcaciasColorsGrey400 = #959595ff
+    public static let undefinedColorAcaciasColorsGrey500 = #787878ff
+    public static let undefinedColorAcaciasColorsGrey600 = #5b5b5bff
+    public static let undefinedColorAcaciasColorsGrey700 = #3e3e3eff
+    public static let undefinedColorAcaciasColorsOrange100 = #f8efe8ff
+    public static let undefinedColorAcaciasColorsOrange200 = #eed6c7ff
+    public static let undefinedColorAcaciasColorsOrange300 = #e4bda5ff
+    public static let undefinedColorAcaciasColorsOrange400 = #daa483ff
+    public static let undefinedColorAcaciasColorsOrange500 = #d08c61ff
+    public static let undefinedColorAcaciasColorsOrange600 = #c6733fff
+    public static let undefinedColorAcaciasColorsOrange700 = #bc5a1dff
+    public static let undefinedColorAcaciasColorsOxblood100 = #f2edecff
+    public static let undefinedColorAcaciasColorsOxblood200 = #dfd2cfff
+    public static let undefinedColorAcaciasColorsOxblood300 = #ccb6b3ff
+    public static let undefinedColorAcaciasColorsOxblood400 = #b99b96ff
+    public static let undefinedColorAcaciasColorsOxblood500 = #a68079ff
+    public static let undefinedColorAcaciasColorsOxblood600 = #93645dff
+    public static let undefinedColorAcaciasColorsOxblood700 = #804940ff
+    public static let undefinedFontBodyBody = [object Object]
+    public static let undefinedFontBodyBodyBulletList = [object Object]
+    public static let undefinedFontBodyBodyLink = [object Object]
+    public static let undefinedFontBodyH1 = [object Object]
+    public static let undefinedFontBodyH1Italic = [object Object]
+    public static let undefinedFontBodyH2 = [object Object]
+    public static let undefinedFontBodyH2Italic = [object Object]
+    public static let undefinedFontBodyH3 = [object Object]
+    public static let undefinedFontBodyH3Italic = [object Object]
+    public static let undefinedFontBodyH4 = [object Object]
+    public static let undefinedFontBodyH4Italic = [object Object]
+    public static let undefinedFontBodyH5 = [object Object]
+    public static let undefinedFontBodyH5Italic = [object Object]
+    public static let undefinedFontBodyLargeBody = [object Object]
+    public static let undefinedFontBodyNavigation = [object Object]
+    public static let undefinedFontBodyNavigationList = [object Object]
+    public static let undefinedFontBodyNumbers = [object Object]
+    public static let undefinedFontBodyNumbersCurrency = [object Object]
+    public static let undefinedFontBodyRegularQuote = [object Object]
+    public static let undefinedFontBodySmallBody = [object Object]
+    public static let undefinedFontBodySmallQuote = [object Object]
 }

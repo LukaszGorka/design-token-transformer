@@ -4,45 +4,45 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 18:23:48 GMT
+// Generated on Tue, 02 Nov 2021 18:31:18 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorAcaciasColorsFakeBold,
-ColorAcaciasColorsGrey100,
-ColorAcaciasColorsGrey200,
-ColorAcaciasColorsGrey300,
-ColorAcaciasColorsGrey400,
-ColorAcaciasColorsGrey500,
-ColorAcaciasColorsGrey600,
-ColorAcaciasColorsGrey700,
-ColorAcaciasColorsOxblood100,
-ColorAcaciasColorsOxblood200,
-ColorAcaciasColorsOxblood300,
-ColorAcaciasColorsOxblood400,
-ColorAcaciasColorsOxblood500,
-ColorAcaciasColorsOxblood600,
-ColorAcaciasColorsOxblood700,
-ColorAcaciasColorsGrape100,
-ColorAcaciasColorsGrape200,
-ColorAcaciasColorsGrape300,
-ColorAcaciasColorsGrape400,
-ColorAcaciasColorsGrape500,
-ColorAcaciasColorsGrape600,
-ColorAcaciasColorsGrape700,
-ColorAcaciasColorsOrange100,
-ColorAcaciasColorsOrange200,
-ColorAcaciasColorsOrange300,
-ColorAcaciasColorsOrange400,
-ColorAcaciasColorsOrange500,
-ColorAcaciasColorsOrange600,
-ColorAcaciasColorsOrange700,
-ColorAcaciasColorsBasicWhite,
-ColorAcaciasColorsBasicSandstone,
-ColorAcaciasColorsBasicSuccess,
-ColorAcaciasColorsBasicFailure
+UndefinedColorAcaciasColorsFakeBold,
+UndefinedColorAcaciasColorsGrey100,
+UndefinedColorAcaciasColorsGrey200,
+UndefinedColorAcaciasColorsGrey300,
+UndefinedColorAcaciasColorsGrey400,
+UndefinedColorAcaciasColorsGrey500,
+UndefinedColorAcaciasColorsGrey600,
+UndefinedColorAcaciasColorsGrey700,
+UndefinedColorAcaciasColorsOxblood100,
+UndefinedColorAcaciasColorsOxblood200,
+UndefinedColorAcaciasColorsOxblood300,
+UndefinedColorAcaciasColorsOxblood400,
+UndefinedColorAcaciasColorsOxblood500,
+UndefinedColorAcaciasColorsOxblood600,
+UndefinedColorAcaciasColorsOxblood700,
+UndefinedColorAcaciasColorsGrape100,
+UndefinedColorAcaciasColorsGrape200,
+UndefinedColorAcaciasColorsGrape300,
+UndefinedColorAcaciasColorsGrape400,
+UndefinedColorAcaciasColorsGrape500,
+UndefinedColorAcaciasColorsGrape600,
+UndefinedColorAcaciasColorsGrape700,
+UndefinedColorAcaciasColorsOrange100,
+UndefinedColorAcaciasColorsOrange200,
+UndefinedColorAcaciasColorsOrange300,
+UndefinedColorAcaciasColorsOrange400,
+UndefinedColorAcaciasColorsOrange500,
+UndefinedColorAcaciasColorsOrange600,
+UndefinedColorAcaciasColorsOrange700,
+UndefinedColorAcaciasColorsBasicWhite,
+UndefinedColorAcaciasColorsBasicSandstone,
+UndefinedColorAcaciasColorsBasicSuccess,
+UndefinedColorAcaciasColorsBasicFailure
 };
 
 @interface StyleDictionaryColor : NSObject
