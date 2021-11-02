@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 18:31:18 GMT
+// Generated on Tue, 02 Nov 2021 18:35:52 GMT
 
 
 import UIKit
@@ -43,25 +43,25 @@ public class StyleDictionary {
     public static let undefinedColorAcaciasColorsOxblood500 = #a68079ff
     public static let undefinedColorAcaciasColorsOxblood600 = #93645dff
     public static let undefinedColorAcaciasColorsOxblood700 = #804940ff
-    public static let undefinedFontBodyBody = [object Object]
-    public static let undefinedFontBodyBodyBulletList = [object Object]
-    public static let undefinedFontBodyBodyLink = [object Object]
-    public static let undefinedFontBodyH1 = [object Object]
-    public static let undefinedFontBodyH1Italic = [object Object]
-    public static let undefinedFontBodyH2 = [object Object]
-    public static let undefinedFontBodyH2Italic = [object Object]
-    public static let undefinedFontBodyH3 = [object Object]
-    public static let undefinedFontBodyH3Italic = [object Object]
-    public static let undefinedFontBodyH4 = [object Object]
-    public static let undefinedFontBodyH4Italic = [object Object]
-    public static let undefinedFontBodyH5 = [object Object]
-    public static let undefinedFontBodyH5Italic = [object Object]
-    public static let undefinedFontBodyLargeBody = [object Object]
-    public static let undefinedFontBodyNavigation = [object Object]
-    public static let undefinedFontBodyNavigationList = [object Object]
-    public static let undefinedFontBodyNumbers = [object Object]
-    public static let undefinedFontBodyNumbersCurrency = [object Object]
-    public static let undefinedFontBodyRegularQuote = [object Object]
-    public static let undefinedFontBodySmallBody = [object Object]
-    public static let undefinedFontBodySmallQuote = [object Object]
+    public static let undefinedFontAcaciasTypographyBody = [object Object]
+    public static let undefinedFontAcaciasTypographyBodyBulletList = [object Object]
+    public static let undefinedFontAcaciasTypographyBodyLink = [object Object]
+    public static let undefinedFontAcaciasTypographyH1 = [object Object]
+    public static let undefinedFontAcaciasTypographyH1Italic = [object Object]
+    public static let undefinedFontAcaciasTypographyH2 = [object Object]
+    public static let undefinedFontAcaciasTypographyH2Italic = [object Object]
+    public static let undefinedFontAcaciasTypographyH3 = [object Object]
+    public static let undefinedFontAcaciasTypographyH3Italic = [object Object]
+    public static let undefinedFontAcaciasTypographyH4 = [object Object]
+    public static let undefinedFontAcaciasTypographyH4Italic = [object Object]
+    public static let undefinedFontAcaciasTypographyH5 = [object Object]
+    public static let undefinedFontAcaciasTypographyH5Italic = [object Object]
+    public static let undefinedFontAcaciasTypographyLargeBody = [object Object]
+    public static let undefinedFontAcaciasTypographyNavigation = [object Object]
+    public static let undefinedFontAcaciasTypographyNavigationList = [object Object]
+    public static let undefinedFontAcaciasTypographyNumbers = [object Object]
+    public static let undefinedFontAcaciasTypographyNumbersCurrency = [object Object]
+    public static let undefinedFontAcaciasTypographyRegularQuote = [object Object]
+    public static let undefinedFontAcaciasTypographySmallBody = [object Object]
+    public static let undefinedFontAcaciasTypographySmallQuote = [object Object]
 }

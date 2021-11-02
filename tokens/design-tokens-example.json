@@ -180,7 +180,7 @@
       }
     },
     "font": {
-      "body": {
+      "acacias typography": {
         "h1": {
           "type": "custom-fontStyle",
           "value": {
