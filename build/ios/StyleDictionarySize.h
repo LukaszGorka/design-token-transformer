@@ -3,12 +3,18 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 19:29:25 GMT
+// Generated on Wed, 03 Nov 2021 09:41:23 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
+extern float const GridGrid16800SectionSize;
+extern float const GridGrid16800GutterSize;
+extern float const GridGrid16800Offset;
+extern float const GridGrid16801SectionSize;
+extern float const GridGrid16801GutterSize;
+extern float const GridGrid16801Count;
 extern float const FontAcaciasTypographyH1FontSize;
 extern float const FontAcaciasTypographyH1FontWeight;
 extern float const FontAcaciasTypographyH1LetterSpacing;
@@ -51,6 +57,12 @@ extern float const FontAcaciasTypographyNavigationLetterSpacing;
 extern float const FontAcaciasTypographyNavigationLineHeight;
 extern float const FontAcaciasTypographyNavigationParagraphIndent;
 extern float const FontAcaciasTypographyNavigationParagraphSpacing;
+extern float const FontAcaciasTypographyLargeBodyFontSize;
+extern float const FontAcaciasTypographyLargeBodyFontWeight;
+extern float const FontAcaciasTypographyLargeBodyLetterSpacing;
+extern float const FontAcaciasTypographyLargeBodyLineHeight;
+extern float const FontAcaciasTypographyLargeBodyParagraphIndent;
+extern float const FontAcaciasTypographyLargeBodyParagraphSpacing;
 extern float const FontAcaciasTypographyBodyFontSize;
 extern float const FontAcaciasTypographyBodyFontWeight;
 extern float const FontAcaciasTypographyBodyLetterSpacing;
@@ -98,12 +110,6 @@ extern float const FontAcaciasTypographySmallQuoteLetterSpacing;
 extern float const FontAcaciasTypographySmallQuoteLineHeight;
 extern float const FontAcaciasTypographySmallQuoteParagraphIndent;
 extern float const FontAcaciasTypographySmallQuoteParagraphSpacing;
-extern float const FontAcaciasTypographyLargeBodyFontSize;
-extern float const FontAcaciasTypographyLargeBodyFontWeight;
-extern float const FontAcaciasTypographyLargeBodyLetterSpacing;
-extern float const FontAcaciasTypographyLargeBodyLineHeight;
-extern float const FontAcaciasTypographyLargeBodyParagraphIndent;
-extern float const FontAcaciasTypographyLargeBodyParagraphSpacing;
 extern float const FontAcaciasTypographyH1ItalicFontSize;
 extern float const FontAcaciasTypographyH1ItalicFontWeight;
 extern float const FontAcaciasTypographyH1ItalicLetterSpacing;

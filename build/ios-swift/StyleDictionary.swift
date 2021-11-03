@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 19:29:25 GMT
+// Generated on Wed, 03 Nov 2021 09:41:23 GMT
 
 
 import UIKit
@@ -295,4 +295,15 @@ public class StyleDictionary {
     public static let fontAcaciasTypographySmallQuoteParagraphSpacing = "0"
     public static let fontAcaciasTypographySmallQuoteTextCase = "none"
     public static let fontAcaciasTypographySmallQuoteTextDecoration = "none"
+    public static let gridGrid16800Alignment = min
+    public static let gridGrid16800Count = auto
+    public static let gridGrid16800GutterSize = 12
+    public static let gridGrid16800Offset = 0
+    public static let gridGrid16800Pattern = rows
+    public static let gridGrid16800SectionSize = 60
+    public static let gridGrid16801Alignment = center
+    public static let gridGrid16801Count = 12
+    public static let gridGrid16801GutterSize = 25
+    public static let gridGrid16801Pattern = columns
+    public static let gridGrid16801SectionSize = 105
 }

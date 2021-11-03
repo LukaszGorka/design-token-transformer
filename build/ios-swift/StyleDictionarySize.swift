@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 19:29:25 GMT
+// Generated on Wed, 03 Nov 2021 09:41:23 GMT
 
 
 import UIKit
@@ -135,4 +135,10 @@ public enum StyleDictionarySize {
     public static let acaciasTypographySmallQuoteLineHeight = "24"
     public static let acaciasTypographySmallQuoteParagraphIndent = "0"
     public static let acaciasTypographySmallQuoteParagraphSpacing = "0"
+    public static let grid16800GutterSize = 12
+    public static let grid16800Offset = 0
+    public static let grid16800SectionSize = 60
+    public static let grid16801Count = 12
+    public static let grid16801GutterSize = 25
+    public static let grid16801SectionSize = 105
 }

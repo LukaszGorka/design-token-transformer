@@ -4,12 +4,18 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 02 Nov 2021 19:29:25 GMT
+// Generated on Wed, 03 Nov 2021 09:41:23 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
+float const GridGrid16800SectionSize = 60;
+float const GridGrid16800GutterSize = 12;
+float const GridGrid16800Offset = 0;
+float const GridGrid16801SectionSize = 105;
+float const GridGrid16801GutterSize = 25;
+float const GridGrid16801Count = 12;
 float const FontAcaciasTypographyH1FontSize = @"44";
 float const FontAcaciasTypographyH1FontWeight = @"400";
 float const FontAcaciasTypographyH1LetterSpacing = @"0";
@@ -52,6 +58,12 @@ float const FontAcaciasTypographyNavigationLetterSpacing = @"0";
 float const FontAcaciasTypographyNavigationLineHeight = @"18";
 float const FontAcaciasTypographyNavigationParagraphIndent = @"0";
 float const FontAcaciasTypographyNavigationParagraphSpacing = @"0";
+float const FontAcaciasTypographyLargeBodyFontSize = @"23";
+float const FontAcaciasTypographyLargeBodyFontWeight = @"400";
+float const FontAcaciasTypographyLargeBodyLetterSpacing = @"0";
+float const FontAcaciasTypographyLargeBodyLineHeight = @"34";
+float const FontAcaciasTypographyLargeBodyParagraphIndent = @"0";
+float const FontAcaciasTypographyLargeBodyParagraphSpacing = @"0";
 float const FontAcaciasTypographyBodyFontSize = @"19";
 float const FontAcaciasTypographyBodyFontWeight = @"400";
 float const FontAcaciasTypographyBodyLetterSpacing = @"0";
@@ -99,12 +111,6 @@ float const FontAcaciasTypographySmallQuoteLetterSpacing = @"0";
 float const FontAcaciasTypographySmallQuoteLineHeight = @"24";
 float const FontAcaciasTypographySmallQuoteParagraphIndent = @"0";
 float const FontAcaciasTypographySmallQuoteParagraphSpacing = @"0";
-float const FontAcaciasTypographyLargeBodyFontSize = @"23";
-float const FontAcaciasTypographyLargeBodyFontWeight = @"400";
-float const FontAcaciasTypographyLargeBodyLetterSpacing = @"0";
-float const FontAcaciasTypographyLargeBodyLineHeight = @"34";
-float const FontAcaciasTypographyLargeBodyParagraphIndent = @"0";
-float const FontAcaciasTypographyLargeBodyParagraphSpacing = @"0";
 float const FontAcaciasTypographyH1ItalicFontSize = @"44";
 float const FontAcaciasTypographyH1ItalicFontWeight = @"400";
 float const FontAcaciasTypographyH1ItalicLetterSpacing = @"0";
