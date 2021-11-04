@@ -1,6 +1,6 @@
 {
   "color": {
-    "acacias colors": {
+    "colors": {
       "fake bold": {
         "category": "color",
         "exportKey": "color",
@@ -212,66 +212,125 @@
     }
   },
   "grid": {
-    "grid 1680": {
-      "0": {
-        "pattern": {
-          "value": "rows",
-          "type": "string"
+    "grid": {
+      "1680": {
+        "0": {
+          "pattern": {
+            "value": "rows",
+            "type": "string"
+          },
+          "sectionSize": {
+            "value": 60,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "gutterSize": {
+            "value": 12,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "alignment": {
+            "value": "min",
+            "type": "string"
+          },
+          "count": {
+            "value": "auto",
+            "type": "string"
+          },
+          "offset": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
         },
-        "sectionSize": {
-          "value": 60,
-          "type": "number",
-          "unit": "pixel"
+        "1": {
+          "pattern": {
+            "value": "columns",
+            "type": "string"
+          },
+          "sectionSize": {
+            "value": 105,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "gutterSize": {
+            "value": 25,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "alignment": {
+            "value": "center",
+            "type": "string"
+          },
+          "count": {
+            "value": 12,
+            "type": "number"
+          }
         },
-        "gutterSize": {
-          "value": 12,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "alignment": {
-          "value": "min",
-          "type": "string"
-        },
-        "count": {
-          "value": "auto",
-          "type": "string"
-        },
-        "offset": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        }
-      },
-      "1": {
-        "pattern": {
-          "value": "columns",
-          "type": "string"
-        },
-        "sectionSize": {
-          "value": 105,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "gutterSize": {
-          "value": 25,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "alignment": {
-          "value": "center",
-          "type": "string"
-        },
-        "count": {
-          "value": 12,
-          "type": "number"
-        }
-      },
-      "category": "grid",
-      "exportKey": "grid"
+        "category": "grid",
+        "exportKey": "grid"
+      }
     }
   },
   "font": {
-    "acacias typography": {
+    "large quote": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 23,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "typography": {
       "h1": {
         "category": "font",
         "exportKey": "font",
@@ -456,7 +515,7 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Lardy Sans",
+          "value": "Lardy Serif",
           "type": "string"
         },
         "fontWeight": {
@@ -513,7 +572,7 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Lardy Sans",
+          "value": "Lardy Serif",
           "type": "string"
         },
         "fontWeight": {
@@ -1368,7 +1427,7 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Lardy Sans",
+          "value": "Lardy Serif",
           "type": "string"
         },
         "fontWeight": {
@@ -1425,7 +1484,7 @@
           "type": "string"
         },
         "fontFamily": {
-          "value": "Lardy Sans",
+          "value": "Lardy Serif",
           "type": "string"
         },
         "fontWeight": {

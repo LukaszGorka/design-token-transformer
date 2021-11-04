@@ -4,45 +4,45 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 03 Nov 2021 09:41:23 GMT
+// Generated on Thu, 04 Nov 2021 14:38:04 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorAcaciasColorsFakeBold,
-ColorAcaciasColorsGrey100,
-ColorAcaciasColorsGrey200,
-ColorAcaciasColorsGrey300,
-ColorAcaciasColorsGrey400,
-ColorAcaciasColorsGrey500,
-ColorAcaciasColorsGrey600,
-ColorAcaciasColorsGrey700,
-ColorAcaciasColorsOxblood100,
-ColorAcaciasColorsOxblood200,
-ColorAcaciasColorsOxblood300,
-ColorAcaciasColorsOxblood400,
-ColorAcaciasColorsOxblood500,
-ColorAcaciasColorsOxblood600,
-ColorAcaciasColorsOxblood700,
-ColorAcaciasColorsGrape100,
-ColorAcaciasColorsGrape200,
-ColorAcaciasColorsGrape300,
-ColorAcaciasColorsGrape400,
-ColorAcaciasColorsGrape500,
-ColorAcaciasColorsGrape600,
-ColorAcaciasColorsGrape700,
-ColorAcaciasColorsOrange100,
-ColorAcaciasColorsOrange200,
-ColorAcaciasColorsOrange300,
-ColorAcaciasColorsOrange400,
-ColorAcaciasColorsOrange500,
-ColorAcaciasColorsOrange600,
-ColorAcaciasColorsOrange700,
-ColorAcaciasColorsBasicWhite,
-ColorAcaciasColorsBasicSandstone,
-ColorAcaciasColorsBasicSuccess,
-ColorAcaciasColorsBasicFailure
+ColorColorsFakeBold,
+ColorColorsGrey100,
+ColorColorsGrey200,
+ColorColorsGrey300,
+ColorColorsGrey400,
+ColorColorsGrey500,
+ColorColorsGrey600,
+ColorColorsGrey700,
+ColorColorsOxblood100,
+ColorColorsOxblood200,
+ColorColorsOxblood300,
+ColorColorsOxblood400,
+ColorColorsOxblood500,
+ColorColorsOxblood600,
+ColorColorsOxblood700,
+ColorColorsGrape100,
+ColorColorsGrape200,
+ColorColorsGrape300,
+ColorColorsGrape400,
+ColorColorsGrape500,
+ColorColorsGrape600,
+ColorColorsGrape700,
+ColorColorsOrange100,
+ColorColorsOrange200,
+ColorColorsOrange300,
+ColorColorsOrange400,
+ColorColorsOrange500,
+ColorColorsOrange600,
+ColorColorsOrange700,
+ColorColorsBasicWhite,
+ColorColorsBasicSandstone,
+ColorColorsBasicSuccess,
+ColorColorsBasicFailure
 };
 
 @interface StyleDictionaryColor : NSObject
