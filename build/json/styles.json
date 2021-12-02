@@ -3,7 +3,7 @@
   "BreakpointTabletSmall": 768,
   "BreakpointTablet": 1024,
   "BreakpointDesktopMedium": 1680,
-  "BreakDesktop": 1920,
+  "BreakpointDesktop": 1920,
   "ColorsNewGrey": "rgba(247, 247, 247, 1)",
   "ColorsFakeText": "rgba(81, 81, 81, 1)",
   "ColorsGrey100": "rgba(236, 236, 236, 1)",

@@ -27,7 +27,7 @@
     "type": "number",
     "unit": "pixel"
   },
-  "break_desktop": {
+  "breakpoint_desktop": {
     "category": "breakpoint",
     "exportKey": "breakpoint",
     "value": 1920,

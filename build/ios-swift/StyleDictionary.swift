@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:54:46 GMT
+// Generated on Thu, 02 Dec 2021 10:56:11 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let breakDesktop = 1920
+    public static let breakpointDesktop = 1920
     public static let breakpointDesktopMedium = 1680
     public static let breakpointMobile = 576
     public static let breakpointTablet = 1024
