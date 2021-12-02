@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Nov 2021 16:04:08 GMT
+// Generated on Thu, 02 Dec 2021 10:08:54 GMT
 
 
 import UIKit
@@ -14,7 +14,7 @@ public enum StyleDictionaryColor {
     public static let colorsBasicSandstone = UIColor(red: 0.961, green: 0.953, blue: 0.922, alpha: 1)
     public static let colorsBasicSuccess = UIColor(red: 0.059, green: 0.580, blue: 0.318, alpha: 1)
     public static let colorsBasicWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorsFakeBold = UIColor(red: 0.122, green: 0.122, blue: 0.122, alpha: 1)
+    public static let colorsFakeText = UIColor(red: 0.318, green: 0.318, blue: 0.318, alpha: 1)
     public static let colorsGrape100 = UIColor(red: 0.957, green: 0.929, blue: 0.953, alpha: 1)
     public static let colorsGrape200 = UIColor(red: 0.890, green: 0.824, blue: 0.878, alpha: 1)
     public static let colorsGrape300 = UIColor(red: 0.820, green: 0.718, blue: 0.804, alpha: 1)
@@ -43,4 +43,5 @@ public enum StyleDictionaryColor {
     public static let colorsOxblood500 = UIColor(red: 0.651, green: 0.502, blue: 0.475, alpha: 1)
     public static let colorsOxblood600 = UIColor(red: 0.576, green: 0.392, blue: 0.365, alpha: 1)
     public static let colorsOxblood700 = UIColor(red: 0.502, green: 0.286, blue: 0.251, alpha: 1)
+    public static let newGrey = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
 }

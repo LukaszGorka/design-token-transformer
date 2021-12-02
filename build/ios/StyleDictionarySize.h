@@ -3,18 +3,84 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Nov 2021 16:04:08 GMT
+// Generated on Thu, 02 Dec 2021 10:08:54 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
+extern float const GridGrid10240SectionSize;
+extern float const GridGrid10240GutterSize;
+extern float const GridGrid10240Offset;
+extern float const GridGrid10241SectionSize;
+extern float const GridGrid10241GutterSize;
+extern float const GridGrid10241Count;
 extern float const GridGrid16800SectionSize;
 extern float const GridGrid16800GutterSize;
 extern float const GridGrid16800Offset;
 extern float const GridGrid16801SectionSize;
 extern float const GridGrid16801GutterSize;
 extern float const GridGrid16801Count;
+extern float const FontH2TestFontSize;
+extern float const FontH2TestFontWeight;
+extern float const FontH2TestLetterSpacing;
+extern float const FontH2TestLineHeight;
+extern float const FontH2TestParagraphIndent;
+extern float const FontH2TestParagraphSpacing;
+extern float const FontH3TestFontSize;
+extern float const FontH3TestFontWeight;
+extern float const FontH3TestLetterSpacing;
+extern float const FontH3TestLineHeight;
+extern float const FontH3TestParagraphIndent;
+extern float const FontH3TestParagraphSpacing;
+extern float const FontH4TestSFontSize;
+extern float const FontH4TestSFontWeight;
+extern float const FontH4TestSLetterSpacing;
+extern float const FontH4TestSLineHeight;
+extern float const FontH4TestSParagraphIndent;
+extern float const FontH4TestSParagraphSpacing;
+extern float const FontH5TestSFontSize;
+extern float const FontH5TestSFontWeight;
+extern float const FontH5TestSLetterSpacing;
+extern float const FontH5TestSLineHeight;
+extern float const FontH5TestSParagraphIndent;
+extern float const FontH5TestSParagraphSpacing;
+extern float const FontSmallBodyTestFontSize;
+extern float const FontSmallBodyTestFontWeight;
+extern float const FontSmallBodyTestLetterSpacing;
+extern float const FontSmallBodyTestLineHeight;
+extern float const FontSmallBodyTestParagraphIndent;
+extern float const FontSmallBodyTestParagraphSpacing;
+extern float const FontH4TestBoldFontSize;
+extern float const FontH4TestBoldFontWeight;
+extern float const FontH4TestBoldLetterSpacing;
+extern float const FontH4TestBoldLineHeight;
+extern float const FontH4TestBoldParagraphIndent;
+extern float const FontH4TestBoldParagraphSpacing;
+extern float const FontH5TestBoldFontSize;
+extern float const FontH5TestBoldFontWeight;
+extern float const FontH5TestBoldLetterSpacing;
+extern float const FontH5TestBoldLineHeight;
+extern float const FontH5TestBoldParagraphIndent;
+extern float const FontH5TestBoldParagraphSpacing;
+extern float const FontNavigationUnderlinedFontSize;
+extern float const FontNavigationUnderlinedFontWeight;
+extern float const FontNavigationUnderlinedLetterSpacing;
+extern float const FontNavigationUnderlinedLineHeight;
+extern float const FontNavigationUnderlinedParagraphIndent;
+extern float const FontNavigationUnderlinedParagraphSpacing;
+extern float const FontNavAcHeadFontSize;
+extern float const FontNavAcHeadFontWeight;
+extern float const FontNavAcHeadLetterSpacing;
+extern float const FontNavAcHeadLineHeight;
+extern float const FontNavAcHeadParagraphIndent;
+extern float const FontNavAcHeadParagraphSpacing;
+extern float const FontNewCtaFontSize;
+extern float const FontNewCtaFontWeight;
+extern float const FontNewCtaLetterSpacing;
+extern float const FontNewCtaLineHeight;
+extern float const FontNewCtaParagraphIndent;
+extern float const FontNewCtaParagraphSpacing;
 extern float const FontTypographyH1FontSize;
 extern float const FontTypographyH1FontWeight;
 extern float const FontTypographyH1LetterSpacing;

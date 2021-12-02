@@ -4,13 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Nov 2021 16:04:08 GMT
+// Generated on Thu, 02 Dec 2021 10:08:54 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorColorsFakeBold,
+ColorNewGrey,
+ColorColorsFakeText,
 ColorColorsGrey100,
 ColorColorsGrey200,
 ColorColorsGrey300,
