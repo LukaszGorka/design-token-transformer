@@ -4,22 +4,17 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:52:46 GMT
+// Generated on Thu, 02 Dec 2021 10:54:46 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
 float const BreakpointMobile = 576;
-float const Mobile = 576;
 float const BreakpointTabletSmall = 768;
-float const TabletSmall = 768;
 float const BreakpointTablet = 1024;
-float const Tablet = 1024;
 float const BreakpointDesktopMedium = 1680;
-float const DesktopMedium = 1680;
-float const BreakpointDesktop = 1920;
-float const Desktop = 1920;
+float const BreakDesktop = 1920;
 float const Grid10240SectionSize = 60;
 float const Grid10240GutterSize = 12;
 float const Grid10240Offset = 0;

@@ -4,21 +4,16 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:52:46 GMT
+// Generated on Thu, 02 Dec 2021 10:54:46 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
     public static let  = 576
-    public static let  = 576
-    public static let  = 768
     public static let  = 768
     public static let  = 1024
-    public static let  = 1024
     public static let  = 1680
-    public static let  = 1680
-    public static let  = 1920
     public static let  = 1920
     public static let 10240GutterSize = 12
     public static let 10240Offset = 0

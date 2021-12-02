@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:52:46 GMT
+// Generated on Thu, 02 Dec 2021 10:54:46 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let breakpointDesktop = 1920
+    public static let breakDesktop = 1920
     public static let breakpointDesktopMedium = 1680
     public static let breakpointMobile = 576
     public static let breakpointTablet = 1024
@@ -49,8 +49,6 @@ public class StyleDictionary {
     public static let colorsOxblood500 = rgba(166, 128, 121, 1)
     public static let colorsOxblood600 = rgba(147, 100, 93, 1)
     public static let colorsOxblood700 = rgba(128, 73, 64, 1)
-    public static let desktop = 1920
-    public static let desktopMedium = 1680
     public static let grid10240Alignment = min
     public static let grid10240Count = auto
     public static let grid10240GutterSize = 12
@@ -73,9 +71,6 @@ public class StyleDictionary {
     public static let grid16801GutterSize = 25
     public static let grid16801Pattern = columns
     public static let grid16801SectionSize = 105
-    public static let mobile = 576
-    public static let tablet = 1024
-    public static let tabletSmall = 768
     public static let testH2TestFontFamily = Lardy Serif
     public static let testH2TestFontSize = 35
     public static let testH2TestFontStretch = normal

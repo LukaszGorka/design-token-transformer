@@ -1,14 +1,9 @@
 :root {
   --breakpoint-mobile: 576px;
-  --mobile: 576px;
   --breakpoint-tablet-small: 768px;
-  --tablet-small: 768px;
   --breakpoint-tablet: 1024px;
-  --tablet: 1024px;
   --breakpoint-desktop-medium: 1680px;
-  --desktop-medium: 1680px;
-  --breakpoint-desktop: 1920px;
-  --desktop: 1920px;
+  --break-desktop: 1920px;
   --colors-new-grey: rgba(247, 247, 247, 1);
   --colors-fake-text: rgba(81, 81, 81, 1);
   --colors-grey-100: rgba(236, 236, 236, 1);
