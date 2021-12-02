@@ -1,376 +1,940 @@
 {
-  "breakpoints": {
-    "mobile": {
-      "category": "breakpoint",
-      "exportKey": "breakpoint",
-      "value": 576,
-      "type": "number",
-      "unit": "pixel"
-    },
-    "sm": {
-      "category": "breakpoint",
-      "exportKey": "breakpoint",
-      "value": 768,
-      "type": "number",
-      "unit": "pixel"
-    },
-    "md": {
-      "category": "breakpoint",
-      "exportKey": "breakpoint",
-      "value": 1024,
-      "type": "number",
-      "unit": "pixel"
-    },
-    "lg": {
-      "category": "breakpoint",
-      "exportKey": "breakpoint",
-      "value": 1920,
-      "type": "number",
-      "unit": "pixel"
-    }
+  "mobile": {
+    "category": "breakpoint",
+    "exportKey": "breakpoint",
+    "value": 576,
+    "type": "number",
+    "unit": "pixel"
   },
-  "color": {
-    "new grey": {
+  "sm": {
+    "category": "breakpoint",
+    "exportKey": "breakpoint",
+    "value": 768,
+    "type": "number",
+    "unit": "pixel"
+  },
+  "md": {
+    "category": "breakpoint",
+    "exportKey": "breakpoint",
+    "value": 1024,
+    "type": "number",
+    "unit": "pixel"
+  },
+  "lg": {
+    "category": "breakpoint",
+    "exportKey": "breakpoint",
+    "value": 1920,
+    "type": "number",
+    "unit": "pixel"
+  },
+  "new grey": {
+    "category": "color",
+    "exportKey": "color",
+    "value": "rgba(247, 247, 247, 1)",
+    "type": "color"
+  },
+  "colors": {
+    "fake text": {
       "category": "color",
       "exportKey": "color",
-      "value": "rgba(247, 247, 247, 1)",
+      "value": "rgba(81, 81, 81, 1)",
       "type": "color"
     },
-    "colors": {
-      "fake text": {
+    "grey": {
+      "100": {
         "category": "color",
         "exportKey": "color",
-        "value": "rgba(81, 81, 81, 1)",
+        "value": "rgba(236, 236, 236, 1)",
         "type": "color"
       },
-      "grey": {
-        "100": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(236, 236, 236, 1)",
-          "type": "color"
-        },
-        "200": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(207, 207, 207, 1)",
-          "type": "color"
-        },
-        "300": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(178, 178, 178, 1)",
-          "type": "color"
-        },
-        "400": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(149, 149, 149, 1)",
-          "type": "color"
-        },
-        "500": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(120, 120, 120, 1)",
-          "type": "color"
-        },
-        "600": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(91, 91, 91, 1)",
-          "type": "color"
-        },
-        "700": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(62, 62, 62, 1)",
-          "type": "color"
-        }
+      "200": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(207, 207, 207, 1)",
+        "type": "color"
       },
-      "oxblood": {
-        "100": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(242, 237, 236, 1)",
-          "type": "color"
-        },
-        "200": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(223, 210, 207, 1)",
-          "type": "color"
-        },
-        "300": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(204, 182, 179, 1)",
-          "type": "color"
-        },
-        "400": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(185, 155, 150, 1)",
-          "type": "color"
-        },
-        "500": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(166, 128, 121, 1)",
-          "type": "color"
-        },
-        "600": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(147, 100, 93, 1)",
-          "type": "color"
-        },
-        "700": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(128, 73, 64, 1)",
-          "type": "color"
-        }
+      "300": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(178, 178, 178, 1)",
+        "type": "color"
       },
-      "grape": {
-        "100": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(244, 237, 243, 1)",
-          "type": "color"
-        },
-        "200": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(227, 210, 224, 1)",
-          "type": "color"
-        },
-        "300": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(209, 183, 205, 1)",
-          "type": "color"
-        },
-        "400": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(192, 157, 186, 1)",
-          "type": "color"
-        },
-        "500": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(175, 130, 168, 1)",
-          "type": "color"
-        },
-        "600": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(158, 103, 149, 1)",
-          "type": "color"
-        },
-        "700": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(141, 76, 130, 1)",
-          "type": "color"
-        }
+      "400": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(149, 149, 149, 1)",
+        "type": "color"
       },
-      "orange": {
-        "100": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(248, 239, 232, 1)",
-          "type": "color"
-        },
-        "200": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(238, 214, 199, 1)",
-          "type": "color"
-        },
-        "300": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(228, 189, 165, 1)",
-          "type": "color"
-        },
-        "400": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(218, 164, 131, 1)",
-          "type": "color"
-        },
-        "500": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(208, 140, 97, 1)",
-          "type": "color"
-        },
-        "600": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(198, 115, 63, 1)",
-          "type": "color"
-        },
-        "700": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(188, 90, 29, 1)",
-          "type": "color"
-        }
+      "500": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(120, 120, 120, 1)",
+        "type": "color"
       },
-      "basic": {
-        "white": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(255, 255, 255, 1)",
-          "type": "color"
-        },
-        "sandstone": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(245, 243, 235, 1)",
-          "type": "color"
-        },
-        "success": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(15, 148, 81, 1)",
-          "type": "color"
-        },
-        "failure": {
-          "category": "color",
-          "exportKey": "color",
-          "value": "rgba(209, 42, 70, 1)",
-          "type": "color"
-        }
+      "600": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(91, 91, 91, 1)",
+        "type": "color"
+      },
+      "700": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(62, 62, 62, 1)",
+        "type": "color"
+      }
+    },
+    "oxblood": {
+      "100": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(242, 237, 236, 1)",
+        "type": "color"
+      },
+      "200": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(223, 210, 207, 1)",
+        "type": "color"
+      },
+      "300": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(204, 182, 179, 1)",
+        "type": "color"
+      },
+      "400": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(185, 155, 150, 1)",
+        "type": "color"
+      },
+      "500": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(166, 128, 121, 1)",
+        "type": "color"
+      },
+      "600": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(147, 100, 93, 1)",
+        "type": "color"
+      },
+      "700": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(128, 73, 64, 1)",
+        "type": "color"
+      }
+    },
+    "grape": {
+      "100": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(244, 237, 243, 1)",
+        "type": "color"
+      },
+      "200": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(227, 210, 224, 1)",
+        "type": "color"
+      },
+      "300": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(209, 183, 205, 1)",
+        "type": "color"
+      },
+      "400": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(192, 157, 186, 1)",
+        "type": "color"
+      },
+      "500": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(175, 130, 168, 1)",
+        "type": "color"
+      },
+      "600": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(158, 103, 149, 1)",
+        "type": "color"
+      },
+      "700": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(141, 76, 130, 1)",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "100": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(248, 239, 232, 1)",
+        "type": "color"
+      },
+      "200": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(238, 214, 199, 1)",
+        "type": "color"
+      },
+      "300": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(228, 189, 165, 1)",
+        "type": "color"
+      },
+      "400": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(218, 164, 131, 1)",
+        "type": "color"
+      },
+      "500": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(208, 140, 97, 1)",
+        "type": "color"
+      },
+      "600": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(198, 115, 63, 1)",
+        "type": "color"
+      },
+      "700": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(188, 90, 29, 1)",
+        "type": "color"
+      }
+    },
+    "basic": {
+      "white": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(255, 255, 255, 1)",
+        "type": "color"
+      },
+      "sandstone": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(245, 243, 235, 1)",
+        "type": "color"
+      },
+      "success": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(15, 148, 81, 1)",
+        "type": "color"
+      },
+      "failure": {
+        "category": "color",
+        "exportKey": "color",
+        "value": "rgba(209, 42, 70, 1)",
+        "type": "color"
       }
     }
   },
   "grid": {
-    "grid": {
-      "1024": {
-        "0": {
-          "pattern": {
-            "value": "rows",
-            "type": "string"
-          },
-          "sectionSize": {
-            "value": 60,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "gutterSize": {
-            "value": 12,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "alignment": {
-            "value": "min",
-            "type": "string"
-          },
-          "count": {
-            "value": "auto",
-            "type": "string"
-          },
-          "offset": {
-            "value": 0,
-            "type": "number",
-            "unit": "pixel"
-          }
+    "1024": {
+      "0": {
+        "pattern": {
+          "value": "rows",
+          "type": "string"
         },
-        "1": {
-          "pattern": {
-            "value": "columns",
-            "type": "string"
-          },
-          "sectionSize": {
-            "value": 60,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "gutterSize": {
-            "value": 20,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "alignment": {
-            "value": "center",
-            "type": "string"
-          },
-          "count": {
-            "value": 12,
-            "type": "number"
-          }
+        "sectionSize": {
+          "value": 60,
+          "type": "number",
+          "unit": "pixel"
         },
-        "category": "grid",
-        "exportKey": "grid"
+        "gutterSize": {
+          "value": 12,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "alignment": {
+          "value": "min",
+          "type": "string"
+        },
+        "count": {
+          "value": "auto",
+          "type": "string"
+        },
+        "offset": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
       },
-      "1680": {
-        "0": {
-          "pattern": {
-            "value": "rows",
-            "type": "string"
-          },
-          "sectionSize": {
-            "value": 60,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "gutterSize": {
-            "value": 12,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "alignment": {
-            "value": "min",
-            "type": "string"
-          },
-          "count": {
-            "value": "auto",
-            "type": "string"
-          },
-          "offset": {
-            "value": 0,
-            "type": "number",
-            "unit": "pixel"
-          }
+      "1": {
+        "pattern": {
+          "value": "columns",
+          "type": "string"
         },
-        "1": {
-          "pattern": {
-            "value": "columns",
-            "type": "string"
-          },
-          "sectionSize": {
-            "value": 105,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "gutterSize": {
-            "value": 25,
-            "type": "number",
-            "unit": "pixel"
-          },
-          "alignment": {
-            "value": "center",
-            "type": "string"
-          },
-          "count": {
-            "value": 12,
-            "type": "number"
-          }
+        "sectionSize": {
+          "value": 60,
+          "type": "number",
+          "unit": "pixel"
         },
-        "category": "grid",
-        "exportKey": "grid"
-      }
+        "gutterSize": {
+          "value": 20,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "alignment": {
+          "value": "center",
+          "type": "string"
+        },
+        "count": {
+          "value": 12,
+          "type": "number"
+        }
+      },
+      "category": "grid",
+      "exportKey": "grid"
+    },
+    "1680": {
+      "0": {
+        "pattern": {
+          "value": "rows",
+          "type": "string"
+        },
+        "sectionSize": {
+          "value": 60,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "gutterSize": {
+          "value": 12,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "alignment": {
+          "value": "min",
+          "type": "string"
+        },
+        "count": {
+          "value": "auto",
+          "type": "string"
+        },
+        "offset": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
+      },
+      "1": {
+        "pattern": {
+          "value": "columns",
+          "type": "string"
+        },
+        "sectionSize": {
+          "value": 105,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "gutterSize": {
+          "value": 25,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "alignment": {
+          "value": "center",
+          "type": "string"
+        },
+        "count": {
+          "value": 12,
+          "type": "number"
+        }
+      },
+      "category": "grid",
+      "exportKey": "grid"
     }
   },
-  "font": {
-    "h2 test": {
+  "h2 test": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 35,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Serif",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "lineHeight": {
+      "value": 44,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "h3 test": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 30,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Serif",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 38,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "h4 test s": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 24,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 32,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "h5 test s": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 20,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 28,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "small body test": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 17,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Serif",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 24,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "h4 test bold": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 23,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 700,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 32,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "h5 test bold": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 19,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 700,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Bold",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 28,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "navigation underlined": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 14,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "lineHeight": {
+      "value": 18,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "nav ac head": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 14,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixels"
+    },
+    "lineHeight": {
+      "value": 18,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "new cta": {
+    "category": "font",
+    "exportKey": "font",
+    "fontSize": {
+      "value": 17,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "string"
+    },
+    "fontFamily": {
+      "value": "Lardy Sans",
+      "type": "string"
+    },
+    "fontWeight": {
+      "value": 400,
+      "type": "number"
+    },
+    "fontStyle": {
+      "value": "normal",
+      "type": "string"
+    },
+    "fontStretch": {
+      "value": "normal",
+      "type": "string"
+    },
+    "_fontStyleOld": {
+      "value": "Regular",
+      "type": "string"
+    },
+    "letterSpacing": {
+      "value": 0,
+      "type": "number",
+      "unit": "percent"
+    },
+    "lineHeight": {
+      "value": 27,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphIndent": {
+      "value": 0,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "paragraphSpacing": {
+      "value": 12,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "string"
+    }
+  },
+  "typography": {
+    "h1": {
       "category": "font",
       "exportKey": "font",
       "fontSize": {
-        "value": 35,
+        "value": 42,
         "type": "number",
         "unit": "pixel"
       },
@@ -399,6 +963,177 @@
         "type": "string"
       },
       "letterSpacing": {
+        "value": -1,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 54,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h1 italic": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 42,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": -1,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 54,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h2": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 32,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": -1,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 44,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h2 italic": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 32,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
         "value": 0,
         "type": "number",
         "unit": "pixels"
@@ -423,11 +1158,11 @@
         "type": "string"
       }
     },
-    "h3 test": {
+    "h3": {
       "category": "font",
       "exportKey": "font",
       "fontSize": {
-        "value": 30,
+        "value": 28,
         "type": "number",
         "unit": "pixel"
       },
@@ -480,105 +1215,48 @@
         "type": "string"
       }
     },
-    "h4 test s": {
+    "h3 italic": {
       "category": "font",
       "exportKey": "font",
       "fontSize": {
-        "value": 24,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "percent"
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string"
-      }
-    },
-    "h5 test s": {
-      "category": "font",
-      "exportKey": "font",
-      "fontSize": {
-        "value": 20,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "percent"
-      },
-      "lineHeight": {
         "value": 28,
         "type": "number",
         "unit": "pixel"
       },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 38,
+        "type": "number",
+        "unit": "pixel"
+      },
       "paragraphIndent": {
         "value": 0,
         "type": "number",
@@ -594,11 +1272,11 @@
         "type": "string"
       }
     },
-    "small body test": {
+    "h4": {
       "category": "font",
       "exportKey": "font",
       "fontSize": {
-        "value": 17,
+        "value": 23,
         "type": "number",
         "unit": "pixel"
       },
@@ -632,6 +1310,348 @@
         "unit": "percent"
       },
       "lineHeight": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h4 italic": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 23,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h5": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 19,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 27,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "h5 italic": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 19,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 27,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "regular body": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 19,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 27,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 15,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "large body": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 23,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "small body": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 17,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
         "value": 24,
         "type": "number",
         "unit": "pixel"
@@ -651,64 +1671,7 @@
         "type": "string"
       }
     },
-    "h4 test bold": {
-      "category": "font",
-      "exportKey": "font",
-      "fontSize": {
-        "value": 23,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "percent"
-      },
-      "lineHeight": {
-        "value": 32,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string"
-      }
-    },
-    "h5 test bold": {
+    "regular body link": {
       "category": "font",
       "exportKey": "font",
       "fontSize": {
@@ -717,182 +1680,11 @@
         "unit": "pixel"
       },
       "textDecoration": {
-        "value": "none",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 700,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Bold",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "percent"
-      },
-      "lineHeight": {
-        "value": 28,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string"
-      }
-    },
-    "navigation underlined": {
-      "category": "font",
-      "exportKey": "font",
-      "fontSize": {
-        "value": 14,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
         "value": "underline",
         "type": "string"
       },
       "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixels"
-      },
-      "lineHeight": {
-        "value": 18,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string"
-      }
-    },
-    "nav ac head": {
-      "category": "font",
-      "exportKey": "font",
-      "fontSize": {
-        "value": 14,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
-        "value": "none",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
-        "type": "string"
-      },
-      "fontWeight": {
-        "value": 400,
-        "type": "number"
-      },
-      "fontStyle": {
-        "value": "normal",
-        "type": "string"
-      },
-      "fontStretch": {
-        "value": "normal",
-        "type": "string"
-      },
-      "_fontStyleOld": {
-        "value": "Regular",
-        "type": "string"
-      },
-      "letterSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixels"
-      },
-      "lineHeight": {
-        "value": 18,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphIndent": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "paragraphSpacing": {
-        "value": 0,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textCase": {
-        "value": "none",
-        "type": "string"
-      }
-    },
-    "new cta": {
-      "category": "font",
-      "exportKey": "font",
-      "fontSize": {
-        "value": 17,
-        "type": "number",
-        "unit": "pixel"
-      },
-      "textDecoration": {
-        "value": "underline",
-        "type": "string"
-      },
-      "fontFamily": {
-        "value": "Lardy Sans",
+        "value": "Lardy Serif",
         "type": "string"
       },
       "fontWeight": {
@@ -936,1431 +1728,631 @@
         "type": "string"
       }
     },
-    "typography": {
-      "h1": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 42,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": -1,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 54,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+    "body bullet list": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 19,
+        "type": "number",
+        "unit": "pixel"
       },
-      "h1 italic": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 42,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": -1,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 54,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
       },
-      "h2": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": -1,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 44,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
       },
-      "h2 italic": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 32,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "lineHeight": {
-          "value": 44,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
       },
-      "h3": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 28,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 38,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
       },
-      "h3 italic": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 28,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 38,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
       },
-      "h4": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 23,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
       },
-      "h4 italic": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 23,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
       },
-      "h5": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "lineHeight": {
+        "value": 27,
+        "type": "number",
+        "unit": "pixel"
       },
-      "h5 italic": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
       },
-      "regular body": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 15,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "paragraphSpacing": {
+        "value": 15,
+        "type": "number",
+        "unit": "pixel"
       },
-      "large body": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 23,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "regular quote": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 19,
+        "type": "number",
+        "unit": "pixel"
       },
-      "small body": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 17,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
       },
-      "regular body link": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "underline",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 12,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
       },
-      "body bullet list": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 15,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
       },
-      "regular quote": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 19,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 27,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
       },
-      "small quote": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 17,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
       },
-      "large quote": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 23,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "italic",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Italic",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 34,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
       },
-      "navigation": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 14,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "lineHeight": {
-          "value": 18,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
       },
-      "navigation list": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 14,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "lineHeight": {
-          "value": 18,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 10,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "lineHeight": {
+        "value": 27,
+        "type": "number",
+        "unit": "pixel"
       },
-      "table small body": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 17,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 24,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 26,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
       },
-      "infographics regular": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 12,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "lineHeight": {
-          "value": 14,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
       },
-      "numbers currency": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 12,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 700,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": "normal",
-          "type": "string",
-          "unit": "auto"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "small quote": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 17,
+        "type": "number",
+        "unit": "pixel"
       },
-      "numbers": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 62,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Serif",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 400,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Regular",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": -1,
-          "type": "number",
-          "unit": "percent"
-        },
-        "lineHeight": {
-          "value": 70,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
       },
-      "infographics bold": {
-        "category": "font",
-        "exportKey": "font",
-        "fontSize": {
-          "value": 12,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "string"
-        },
-        "fontFamily": {
-          "value": "Lardy Sans",
-          "type": "string"
-        },
-        "fontWeight": {
-          "value": 700,
-          "type": "number"
-        },
-        "fontStyle": {
-          "value": "normal",
-          "type": "string"
-        },
-        "fontStretch": {
-          "value": "normal",
-          "type": "string"
-        },
-        "_fontStyleOld": {
-          "value": "Bold",
-          "type": "string"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixels"
-        },
-        "lineHeight": {
-          "value": 14,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "number",
-          "unit": "pixel"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "string"
-        }
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "large quote": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 23,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "italic",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Italic",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 34,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "navigation": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 14,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixels"
+      },
+      "lineHeight": {
+        "value": 18,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "navigation list": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 14,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixels"
+      },
+      "lineHeight": {
+        "value": 18,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "table small body": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 17,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 26,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "infographics regular": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 12,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixels"
+      },
+      "lineHeight": {
+        "value": 14,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "numbers currency": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 12,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Bold",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": "normal",
+        "type": "string",
+        "unit": "auto"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "numbers": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 62,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Serif",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 400,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": -1,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 70,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
+    },
+    "infographics bold": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 12,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Lardy Sans",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Bold",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixels"
+      },
+      "lineHeight": {
+        "value": 14,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
       }
     }
   }
