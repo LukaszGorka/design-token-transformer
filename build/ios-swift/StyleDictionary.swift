@@ -4,12 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:20:00 GMT
+// Generated on Thu, 02 Dec 2021 10:22:51 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let breakpointsLg = 1280
+    public static let breakpointsMd = 1024
+    public static let breakpointsSm = 768
     public static let colorColorsBasicFailure = UIColor(red: 0.820, green: 0.165, blue: 0.275, alpha: 1)
     public static let colorColorsBasicSandstone = UIColor(red: 0.961, green: 0.953, blue: 0.922, alpha: 1)
     public static let colorColorsBasicSuccess = UIColor(red: 0.059, green: 0.580, blue: 0.318, alpha: 1)

@@ -1,4 +1,27 @@
 {
+  "breakpoints": {
+    "lg": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1280,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "sm": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 768,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "md": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1024,
+      "type": "number",
+      "unit": "pixel"
+    }
+  },
   "color": {
     "new grey": {
       "category": "color",

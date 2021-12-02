@@ -1,4 +1,7 @@
 :root {
+  --breakpoints-lg: 1280px;
+  --breakpoints-sm: 768px;
+  --breakpoints-md: 1024px;
   --color-new-grey: #f7f7f7;
   --color-colors-fake-text: #515151;
   --color-colors-grey-100: #ececec;

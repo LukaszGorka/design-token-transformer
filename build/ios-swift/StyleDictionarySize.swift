@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:20:00 GMT
+// Generated on Thu, 02 Dec 2021 10:22:51 GMT
 
 
 import UIKit
@@ -58,6 +58,8 @@ public enum StyleDictionarySize {
     public static let h5TestSLineHeight = "28"
     public static let h5TestSParagraphIndent = "0"
     public static let h5TestSParagraphSpacing = "0"
+    public static let lg = 1280
+    public static let md = 1024
     public static let navAcHeadFontSize = "14"
     public static let navAcHeadFontWeight = "400"
     public static let navAcHeadLetterSpacing = "0"
@@ -76,6 +78,7 @@ public enum StyleDictionarySize {
     public static let newCtaLineHeight = "27"
     public static let newCtaParagraphIndent = "0"
     public static let newCtaParagraphSpacing = "12"
+    public static let sm = 768
     public static let smallBodyTestFontSize = "17"
     public static let smallBodyTestFontWeight = "400"
     public static let smallBodyTestLetterSpacing = "0"

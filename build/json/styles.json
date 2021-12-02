@@ -1,4 +1,7 @@
 {
+  "BreakpointsLg": 1280,
+  "BreakpointsSm": 768,
+  "BreakpointsMd": 1024,
   "ColorNewGrey": "#f7f7f7",
   "ColorColorsFakeText": "#515151",
   "ColorColorsGrey100": "#ececec",

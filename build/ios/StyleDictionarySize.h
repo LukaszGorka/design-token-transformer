@@ -3,12 +3,15 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:20:00 GMT
+// Generated on Thu, 02 Dec 2021 10:22:51 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
+extern float const BreakpointsLg;
+extern float const BreakpointsSm;
+extern float const BreakpointsMd;
 extern float const GridGrid10240SectionSize;
 extern float const GridGrid10240GutterSize;
 extern float const GridGrid10240Offset;
