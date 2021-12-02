@@ -1,4 +1,41 @@
 {
+  "breakpoint": {
+    "mobile": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 576,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "tablet_small": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 768,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "tablet": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1024,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "desktop_medium": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1680,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "desktop": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1920,
+      "type": "number",
+      "unit": "pixel"
+    }
+  },
   "mobile": {
     "category": "breakpoint",
     "exportKey": "breakpoint",
@@ -6,21 +43,28 @@
     "type": "number",
     "unit": "pixel"
   },
-  "sm": {
+  "tablet_small": {
     "category": "breakpoint",
     "exportKey": "breakpoint",
     "value": 768,
     "type": "number",
     "unit": "pixel"
   },
-  "md": {
+  "tablet": {
     "category": "breakpoint",
     "exportKey": "breakpoint",
     "value": 1024,
     "type": "number",
     "unit": "pixel"
   },
-  "lg": {
+  "desktop_medium": {
+    "category": "breakpoint",
+    "exportKey": "breakpoint",
+    "value": 1680,
+    "type": "number",
+    "unit": "pixel"
+  },
+  "desktop": {
     "category": "breakpoint",
     "exportKey": "breakpoint",
     "value": 1920,

@@ -4,12 +4,17 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:44:46 GMT
+// Generated on Thu, 02 Dec 2021 10:49:47 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let breakpointDesktop = 1920
+    public static let breakpointDesktopMedium = 1680
+    public static let breakpointMobile = 576
+    public static let breakpointTablet = 1024
+    public static let breakpointTabletSmall = 768
     public static let colorsBasicFailure = rgba(209, 42, 70, 1)
     public static let colorsBasicSandstone = rgba(245, 243, 235, 1)
     public static let colorsBasicSuccess = rgba(15, 148, 81, 1)
@@ -43,6 +48,8 @@ public class StyleDictionary {
     public static let colorsOxblood500 = rgba(166, 128, 121, 1)
     public static let colorsOxblood600 = rgba(147, 100, 93, 1)
     public static let colorsOxblood700 = rgba(128, 73, 64, 1)
+    public static let desktop = 1920
+    public static let desktopMedium = 1680
     public static let grid10240Alignment = min
     public static let grid10240Count = auto
     public static let grid10240GutterSize = 12
@@ -137,8 +144,6 @@ public class StyleDictionary {
     public static let h5TestSParagraphSpacing = 0
     public static let h5TestSTextCase = none
     public static let h5TestSTextDecoration = none
-    public static let lg = 1920
-    public static let md = 1024
     public static let mobile = 576
     public static let navAcHeadFontFamily = Lardy Sans
     public static let navAcHeadFontSize = 14
@@ -177,7 +182,6 @@ public class StyleDictionary {
     public static let newCtaTextCase = none
     public static let newCtaTextDecoration = underline
     public static let newGrey = rgba(247, 247, 247, 1)
-    public static let sm = 768
     public static let smallBodyTestFontFamily = Lardy Serif
     public static let smallBodyTestFontSize = 17
     public static let smallBodyTestFontStretch = normal
@@ -190,6 +194,8 @@ public class StyleDictionary {
     public static let smallBodyTestParagraphSpacing = 0
     public static let smallBodyTestTextCase = none
     public static let smallBodyTestTextDecoration = none
+    public static let tablet = 1024
+    public static let tabletSmall = 768
     public static let typographyBodyBulletListFontFamily = Lardy Serif
     public static let typographyBodyBulletListFontSize = 19
     public static let typographyBodyBulletListFontStretch = normal

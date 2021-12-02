@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:44:46 GMT
+// Generated on Thu, 02 Dec 2021 10:49:47 GMT
 
 
 import UIKit
@@ -13,6 +13,7 @@ public enum StyleDictionarySize {
     public static let  = 576
     public static let  = 768
     public static let  = 1024
+    public static let  = 1680
     public static let  = 1920
     public static let 10240GutterSize = 12
     public static let 10240Offset = 0
@@ -32,6 +33,8 @@ public enum StyleDictionarySize {
     public static let bodyBulletListLineHeight = 27
     public static let bodyBulletListParagraphIndent = 0
     public static let bodyBulletListParagraphSpacing = 15
+    public static let desktop = 1920
+    public static let desktopMedium = 1680
     public static let fontSize = 35
     public static let fontSize = 30
     public static let fontSize = 24
@@ -156,6 +159,7 @@ public enum StyleDictionarySize {
     public static let lineHeight = 18
     public static let lineHeight = 18
     public static let lineHeight = 27
+    public static let mobile = 576
     public static let navigationFontSize = 14
     public static let navigationFontWeight = 400
     public static let navigationLetterSpacing = 0
@@ -235,4 +239,6 @@ public enum StyleDictionarySize {
     public static let tableSmallBodyLineHeight = 24
     public static let tableSmallBodyParagraphIndent = 0
     public static let tableSmallBodyParagraphSpacing = 26
+    public static let tablet = 1024
+    public static let tabletSmall = 768
 }

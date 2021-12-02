@@ -3,16 +3,22 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:44:45 GMT
+// Generated on Thu, 02 Dec 2021 10:49:47 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
+extern float const BreakpointMobile;
+extern float const BreakpointTabletSmall;
+extern float const BreakpointTablet;
+extern float const BreakpointDesktopMedium;
+extern float const BreakpointDesktop;
 extern float const Mobile;
-extern float const Sm;
-extern float const Md;
-extern float const Lg;
+extern float const TabletSmall;
+extern float const Tablet;
+extern float const DesktopMedium;
+extern float const Desktop;
 extern float const Grid10240SectionSize;
 extern float const Grid10240GutterSize;
 extern float const Grid10240Offset;
