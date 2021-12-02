@@ -4,13 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:49:47 GMT
+// Generated on Thu, 02 Dec 2021 10:52:46 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let  = rgba(247, 247, 247, 1)
     public static let basicFailure = rgba(209, 42, 70, 1)
     public static let basicSandstone = rgba(245, 243, 235, 1)
     public static let basicSuccess = rgba(15, 148, 81, 1)
@@ -30,6 +29,7 @@ public enum StyleDictionaryColor {
     public static let grey500 = rgba(120, 120, 120, 1)
     public static let grey600 = rgba(91, 91, 91, 1)
     public static let grey700 = rgba(62, 62, 62, 1)
+    public static let newGrey = rgba(247, 247, 247, 1)
     public static let orange100 = rgba(248, 239, 232, 1)
     public static let orange200 = rgba(238, 214, 199, 1)
     public static let orange300 = rgba(228, 189, 165, 1)
