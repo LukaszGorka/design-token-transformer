@@ -1,9 +1,9 @@
 {
   "breakpoints": {
-    "lg": {
+    "mobile": {
       "category": "breakpoint",
       "exportKey": "breakpoint",
-      "value": 1280,
+      "value": 576,
       "type": "number",
       "unit": "pixel"
     },
@@ -18,6 +18,13 @@
       "category": "breakpoint",
       "exportKey": "breakpoint",
       "value": 1024,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "lg": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1920,
       "type": "number",
       "unit": "pixel"
     }

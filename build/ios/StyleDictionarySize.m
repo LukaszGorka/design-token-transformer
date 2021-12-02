@@ -4,15 +4,16 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Dec 2021 10:22:51 GMT
+// Generated on Thu, 02 Dec 2021 10:37:10 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const BreakpointsLg = 1280;
+float const BreakpointsMobile = 576;
 float const BreakpointsSm = 768;
 float const BreakpointsMd = 1024;
+float const BreakpointsLg = 1920;
 float const GridGrid10240SectionSize = 60;
 float const GridGrid10240GutterSize = 12;
 float const GridGrid10240Offset = 0;

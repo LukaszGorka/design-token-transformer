@@ -1,7 +1,8 @@
 {
-  "BreakpointsLg": 1280,
+  "BreakpointsMobile": 576,
   "BreakpointsSm": 768,
   "BreakpointsMd": 1024,
+  "BreakpointsLg": 1920,
   "ColorNewGrey": "#f7f7f7",
   "ColorColorsFakeText": "#515151",
   "ColorColorsGrey100": "#ececec",
